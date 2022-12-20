@@ -15,5 +15,5 @@ print("hasil=",biner,"tipe",type(biner))
 
 
 # bonus
-nama = input("nama?:")
-print("hallow,",nama)
+nama = input('masukan nama:')
+print("hallo",nama)
